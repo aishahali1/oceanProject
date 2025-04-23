@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url('coralReef.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1920; height: 10;
+}
+li {
+    display: inline;   
+    
+  }
+  
+  a{
+    display: block;
+   padding: 8px;
+   
+   background-color: #9dd9f9c1;
+    text-decoration: none;
+     color: rgb(4, 9, 68);  }
+  a:hover{
+    background-color: rgba(106, 137, 249, 0.82);
+  }
