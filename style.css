@@ -7,10 +7,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     width: 1920; height: 10;
+    color: white;
+    text-align: center;
 }
 li {
     display: inline;   
-    
   }
   
   a{
@@ -23,3 +24,15 @@ li {
   a:hover{
     background-color: rgba(106, 137, 249, 0.82);
   }
+  
+.cairo div{
+    font-family: "Cairo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+  }
+
+  
+  
