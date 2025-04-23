@@ -46,6 +46,13 @@ list-style-type: none;}
   .goals{
  list-style-type: circle;
   }
+  .marineText{
+    text-align: right;
+    display: block;
+    background-color: rgba(20, 20, 70, 0.7);
+    margin-top: 0.3%;
+    padding-right: 0.5%;
+  }
 
   
   
