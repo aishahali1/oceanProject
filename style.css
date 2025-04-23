@@ -10,7 +10,7 @@ body{
     color: white;
     text-align: center;
 }
-li {
+.navBar {
     display: inline;   
   }
   
@@ -25,12 +25,14 @@ li {
     background-color: rgba(106, 137, 249, 0.82);
   }
   .navBar{
-text-align: right;  }
+text-align: right;  
+list-style-type: none;}
 .oceanText{
   display: block;
   background-color: rgba(20, 20, 70, 0.7);
   margin-top: 0.3%;
   }
+  
 .cairo{
     font-family: "Cairo", sans-serif;
     font-optical-sizing: auto;
@@ -38,6 +40,9 @@ text-align: right;  }
     font-style: normal;
     font-variation-settings:
       "slnt" 0;
+  }
+  .goals{
+ list-style-type: disc;
   }
 
   
