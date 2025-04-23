@@ -24,8 +24,14 @@ li {
   a:hover{
     background-color: rgba(106, 137, 249, 0.82);
   }
-  
-.cairo div{
+  .navBar{
+text-align: right;  }
+.oceanText{
+  display: block;
+  background-color: rgba(20, 20, 70, 0.7);
+  margin-top: 0.3%;
+  }
+.cairo{
     font-family: "Cairo", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
