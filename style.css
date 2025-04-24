@@ -68,7 +68,8 @@ list-style-type: none;}
   }
   table, th, td {
     text-align: center;
-border: rgb(2, 3, 3) solid 3px;
+border: #eef7fc solid 3px;
+padding: 0.5% 0.5%;
   }
 
 .column {
